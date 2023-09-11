@@ -1,0 +1,15 @@
+D:\AsyncFileHandling\AsyncFileHandling\bin\Debug\net6.0\AsyncFileHandling.exe
+D:\AsyncFileHandling\AsyncFileHandling\bin\Debug\net6.0\AsyncFileHandling.deps.json
+D:\AsyncFileHandling\AsyncFileHandling\bin\Debug\net6.0\AsyncFileHandling.runtimeconfig.json
+D:\AsyncFileHandling\AsyncFileHandling\bin\Debug\net6.0\AsyncFileHandling.dll
+D:\AsyncFileHandling\AsyncFileHandling\bin\Debug\net6.0\AsyncFileHandling.pdb
+D:\AsyncFileHandling\AsyncFileHandling\obj\Debug\net6.0\AsyncFileHandling.csproj.AssemblyReference.cache
+D:\AsyncFileHandling\AsyncFileHandling\obj\Debug\net6.0\AsyncFileHandling.GeneratedMSBuildEditorConfig.editorconfig
+D:\AsyncFileHandling\AsyncFileHandling\obj\Debug\net6.0\AsyncFileHandling.AssemblyInfoInputs.cache
+D:\AsyncFileHandling\AsyncFileHandling\obj\Debug\net6.0\AsyncFileHandling.AssemblyInfo.cs
+D:\AsyncFileHandling\AsyncFileHandling\obj\Debug\net6.0\AsyncFileHandling.csproj.CoreCompileInputs.cache
+D:\AsyncFileHandling\AsyncFileHandling\obj\Debug\net6.0\AsyncFileHandling.dll
+D:\AsyncFileHandling\AsyncFileHandling\obj\Debug\net6.0\refint\AsyncFileHandling.dll
+D:\AsyncFileHandling\AsyncFileHandling\obj\Debug\net6.0\AsyncFileHandling.pdb
+D:\AsyncFileHandling\AsyncFileHandling\obj\Debug\net6.0\AsyncFileHandling.genruntimeconfig.cache
+D:\AsyncFileHandling\AsyncFileHandling\obj\Debug\net6.0\ref\AsyncFileHandling.dll

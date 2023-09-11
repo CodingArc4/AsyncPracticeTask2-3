@@ -1,0 +1,15 @@
+D:\AsynchronusDemo2\AsynchronusDemo2\bin\Debug\net6.0\AsynchronusDemo2.exe
+D:\AsynchronusDemo2\AsynchronusDemo2\bin\Debug\net6.0\AsynchronusDemo2.deps.json
+D:\AsynchronusDemo2\AsynchronusDemo2\bin\Debug\net6.0\AsynchronusDemo2.runtimeconfig.json
+D:\AsynchronusDemo2\AsynchronusDemo2\bin\Debug\net6.0\AsynchronusDemo2.dll
+D:\AsynchronusDemo2\AsynchronusDemo2\bin\Debug\net6.0\AsynchronusDemo2.pdb
+D:\AsynchronusDemo2\AsynchronusDemo2\obj\Debug\net6.0\AsynchronusDemo2.csproj.AssemblyReference.cache
+D:\AsynchronusDemo2\AsynchronusDemo2\obj\Debug\net6.0\AsynchronusDemo2.GeneratedMSBuildEditorConfig.editorconfig
+D:\AsynchronusDemo2\AsynchronusDemo2\obj\Debug\net6.0\AsynchronusDemo2.AssemblyInfoInputs.cache
+D:\AsynchronusDemo2\AsynchronusDemo2\obj\Debug\net6.0\AsynchronusDemo2.AssemblyInfo.cs
+D:\AsynchronusDemo2\AsynchronusDemo2\obj\Debug\net6.0\AsynchronusDemo2.csproj.CoreCompileInputs.cache
+D:\AsynchronusDemo2\AsynchronusDemo2\obj\Debug\net6.0\AsynchronusDemo2.dll
+D:\AsynchronusDemo2\AsynchronusDemo2\obj\Debug\net6.0\refint\AsynchronusDemo2.dll
+D:\AsynchronusDemo2\AsynchronusDemo2\obj\Debug\net6.0\AsynchronusDemo2.pdb
+D:\AsynchronusDemo2\AsynchronusDemo2\obj\Debug\net6.0\AsynchronusDemo2.genruntimeconfig.cache
+D:\AsynchronusDemo2\AsynchronusDemo2\obj\Debug\net6.0\ref\AsynchronusDemo2.dll
